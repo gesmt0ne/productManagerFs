@@ -1,0 +1,3 @@
+[{"id":"id1","tittle":"asd","description":"descript","price":200,"code":"abc123","stock":25},
+{"id":"id2","tittle":"abc","description":"descript2","price":220,"code":"123bca","stock":23,"title":"Nuevo título"},
+{"id":"id3","tittle":"qwe","description":"descript3","price":230,"code":"312abc","stock":22}]
